@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.conformiq:ConformiqProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.conformiq="http://www.conformiq.com/models/1/project" name="New Project">
+  <designConfigurations name="DC" id="5589924344e0aba751f03ac385463e22"/>
+  <projectProperties key="MainActivityDiagram" value="model/Activity Diagram.ad"/>
+  <projectProperties key="IntelligentTestCaseNaming" value="true"/>
+  <requirementProviders xmi:id="_JwvtkC_ZEeW-1ruC9rtAew" identifier="com.conformiq.designer.extensions.alm" name="HP ALM Requirements (:)">
+    <properties key="alm.domain"/>
+    <properties key="alm.location"/>
+    <properties key="alm.password"/>
+    <properties key="alm.project"/>
+    <properties key="alm.requirement.folder"/>
+    <properties key="alm.username"/>
+  </requirementProviders>
+</com.conformiq:ConformiqProject>
